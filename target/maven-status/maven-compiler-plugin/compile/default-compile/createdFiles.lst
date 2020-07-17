@@ -1,0 +1,12 @@
+com\educacionit\jse\integrador\entidades\Telefono.class
+com\educacionit\jse\integrador\entidades\Producto.class
+com\educacionit\jse\integrador\connector\AdministradorDeConexiones.class
+com\educacionit\jse\integrador\utils\html\HtmlTable.class
+com\educacionit\jse\integrador\entidades\Domicilio.class
+com\educacionit\jse\integrador\repositories\interfaces\I_PersonaRepository.class
+com\educacionit\jse\integrador\utils\StringUtils.class
+com\educacionit\jse\integrador\entidades\Persona.class
+repositorios\list\I_PersonaRepository.class
+com\educacionit\jse\integrador\entidades\Vehiculo.class
+com\educacionit\jse\integrador\repositories\interfaces\I_ProductoRepository.class
+com\educacionit\jse\integrador\test\RepositoryTest.class
